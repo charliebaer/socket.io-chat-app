@@ -8,7 +8,10 @@ To run the application locally go through the following steps
 git clone https://github.com/charliebaer/socket.io-chat-app.git
 ```
 2. make the cloned repo as your pwd
-3. get all the modules listed ad dependencies
+```
+cd socket.io-chat-app
+```
+3. get all the modules listed as dependencies
 ```
 npm install
 ```
